@@ -1,9 +1,3 @@
-# BDT_PROJECT
-
-
-# Project README
-
-# Installation Guide
 
 # 1. Install Visual Studio Code (VS Code)
    - Download VS Code from the official site: https://code.visualstudio.com/download.
