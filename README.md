@@ -1,10 +1,10 @@
 
-# 1. Install Visual Studio Code (VS Code)
+### 1. Install Visual Studio Code (VS Code)
    - Download VS Code from the official site: https://code.visualstudio.com/download.
    - Follow the installation instructions based on your operating system (Windows, macOS, Linux).
    - Once installed, open VS Code and set up your preferred extensions for Python development (e.g., Python, Pylance).
 
-# 2. Install MongoDB Compass
+### 2. Install MongoDB Compass
    - Download MongoDB Compass from: https://www.mongodb.com/products/compass.
    - Install it by following the on-screen instructions.
    - Use this tool to visually interact with your MongoDB databases.
